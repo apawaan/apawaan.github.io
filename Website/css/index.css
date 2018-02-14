@@ -1,0 +1,146 @@
+/* welcom banner*/
+
+#topheader .jumbotron
+{
+	background-image: url('../img/header.gif');
+  background-position: center;
+  text-align: center;
+	padding: 125px;
+  background-size: cover;
+	font-family: 'Courier New', monospace;
+	margin-bottom: 0;
+}
+
+/* background */
+#topheader .jumbotron a
+{
+  color: rgb(255, 255, 255);
+  font-size: 24px;
+  text-shadow: 0 5px rgb(46,46,46);
+}
+
+/* 'welcome'  */
+#topheader h2
+{
+  color: rgb(255, 255, 255);
+  font-size: 65px;
+	text-shadow: 4px 3px 3px black;
+}
+
+/**************/
+
+#about .jumbotron
+{
+  background-size: cover;
+	background-color: white;
+  text-align: center;
+  width: 100%;
+	padding: 20px;
+	margin-bottom: 0;
+
+}
+
+#about h3
+{
+	font-family: 'Assistant', serif;
+	padding: 5px;
+	color: black;
+	font-size: 65px;
+
+}
+
+#about p
+{
+		color: black;
+		font-family: 'Assistant', serif;
+		font-size: 25px;
+		font-weight: lighter;
+}
+
+#about center
+{
+	padding: 25px;
+
+}
+
+/**************/
+
+#links .jumbotron
+{
+	background-size: cover;
+	background-color: #D8FFFF;
+  text-align: center;
+  width: 100%;
+	padding: 10px;
+	margin-bottom: 0;
+}
+
+#links h3
+{
+	font-family: 'Assistant', serif;
+	padding: 15px;
+	color: black;
+	font-size: 65px;
+}
+
+
+
+
+/* BUTTONS */
+
+#links h3
+{
+	padding: 15px;
+}
+
+#links .btn.btn-primary:hover
+{
+  color: #fbd1d5;
+  background-color: white;
+}
+
+#links .btn.btn-primary
+{
+  border-radius: 10px;
+  border: 10px;
+  color: white;
+	width: 180px;
+  text-shadow: 1px 1px 2px black;
+  background-color: black;
+}
+
+
+#links .appear
+{
+	padding: 15px;
+}
+
+
+/************/
+
+#prev .jumbotron
+{
+  background-size: cover;
+	background-color: white;
+  text-align: center;
+  width: 100%;
+	padding: 20px;
+	margin-bottom: 0;
+
+}
+
+#prev h3
+{
+	font-family: 'Assistant', serif;
+	padding: 5px;
+	color: black;
+	font-size: 65px;
+
+}
+
+
+#footer
+{
+  color: DarkSlateGray;
+  font-size: 16px;
+}
