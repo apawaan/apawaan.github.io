@@ -42,11 +42,11 @@
 
 #about h3
 {
-	font-family: 'Assistant', serif;
-	padding: 5px;
-	color: black;
+ 	padding: 5px;
+	color: white;
 	font-size: 65px;
-
+	font-family: 'Courier New', monospace;
+	text-shadow: 4px 4px 3px black;
 }
 
 #about p
@@ -77,10 +77,11 @@
 
 #links h3
 {
-	font-family: 'Assistant', serif;
-	padding: 15px;
-	color: black;
+	padding: 5px;
+	color: white;
 	font-size: 65px;
+	font-family: 'Courier New', monospace;
+	text-shadow: 4px 4px 3px black;
 }
 
 
@@ -131,11 +132,11 @@
 
 #prev h3
 {
-	font-family: 'Assistant', serif;
 	padding: 5px;
-	color: black;
+	color: white;
 	font-size: 65px;
-
+	font-family: 'Courier New', monospace;
+	text-shadow: 4px 4px 3px black;
 }
 
 
