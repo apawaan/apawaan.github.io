@@ -1,0 +1,357 @@
+@charset "UTF-8";
+
+.emoji {
+  overflow: hidden;
+  display: inline-block;
+  width: 1em;
+  height: 1em;
+  margin: 0 0.1em ;
+  background-size: 100% 100%;
+  background-image: url('img/emoji/820.png');
+  vertical-align: middle;
+  color: rgba(0,0,0,0);
+}
+
+/* for each emoji */
+[data-emoji="✨"] {
+  background-image: url('img/emoji/98.png');
+}
+[data-emoji="💁"] {
+  background-image: url('img/emoji/487.png');
+}
+[data-emoji="💾"] {
+  background-image: url('img/emoji/548.png');
+}
+[data-emoji="🌵"] {
+  background-image: url('img/emoji/210.png');
+}
+[data-emoji="🎈"] {
+  background-image: url('img/emoji/289.png');
+}
+[data-emoji="😎"] {
+  background-image: url('img/emoji/715.png');
+}
+[data-emoji="💩"] {
+  background-image: url('img/emoji/527.png');
+}
+[data-emoji="\2764"] { /* ❤️ */
+  background-image: url('img/emoji/109.png');
+}
+[data-emoji="😢"] {
+  background-image: url('img/emoji/98.png');
+}
+[data-emoji="👗"] {
+  background-image: url('img/emoji/98.png');
+}
+[data-emoji="💕"] {
+  background-image: url('img/emoji/507.png');
+}
+[data-emoji="💊"] {
+  background-image: url('img/emoji/98.png');
+}
+[data-emoji="🔫"] {
+  background-image: url('img/emoji/98.png');
+}
+[data-emoji="🎉"] {
+  background-image: url('img/emoji/290.png');
+}
+[data-emoji="🎶"] {
+  background-image: url('img/emoji/323.png');
+}
+[data-emoji="👌"] {
+  background-image: url('img/emoji/98.png');
+}
+[data-emoji="🙌"] {
+  background-image: url('img/emoji/773.png');
+}
+[data-emoji="😀"] {
+  background-image: url('img/emoji/701.png');
+}
+[data-emoji="😂"] {
+  background-image: url('img/emoji/98.png');
+}
+[data-emoji="👀"] {
+  background-image: url('img/emoji/98.png');
+}
+[data-emoji="🙈"] {
+  background-image: url('img/emoji/98.png');
+}
+[data-emoji="😘"] {
+  background-image: url('img/emoji/98.png');
+}
+[data-emoji="😨"] {
+  background-image: url('img/emoji/98.png');
+}
+[data-emoji="\26A1"] {  /* ⚡️ */
+  background-image: url('img/emoji/72.png');
+}
+[data-emoji="✋"] {
+  background-image: url('img/emoji/92.png');
+}
+[data-emoji="✌️"] {
+  background-image: url('img/emoji/93.png');
+}
+[data-emoji="🙏"] {
+  background-image: url('img/emoji/98.png');
+}
+[data-emoji="💁"] {
+  background-image: url('img/emoji/487.png');
+}
+[data-emoji="👯"] {
+  background-image: url('img/emoji/469.png');
+}
+[data-emoji="🚶"] {
+  background-image: url('img/emoji/98.png');
+}
+[data-emoji="🚴"] {
+  background-image: url('img/emoji/98.png');
+}
+[data-emoji="🏄"] {
+  background-image: url('img/emoji/337.png');
+}
+[data-emoji="🗻"] {
+  background-image: url('img/emoji/98.png');
+}
+[data-emoji="🌍"] {
+  background-image: url('img/emoji/98.png');
+}
+[data-emoji="👶"] {
+  background-image: url('img/emoji/98.png');
+}
+[data-emoji="👍"] {
+  background-image: url('img/emoji/435.png');
+}
+[data-emoji="💧"] {
+  background-image: url('img/emoji/98.png');
+}
+[data-emoji="🏠"] {
+  background-image: url('img/emoji/98.png');
+}
+[data-emoji="🌺"] {
+  background-image: url('img/emoji/98.png');
+}
+[data-emoji="🍆"] {
+  background-image: url('img/emoji/98.png');
+}
+[data-emoji="💰"] {
+  background-image: url('img/emoji/98.png');
+}
+[data-emoji="🍕"] {
+  background-image: url('img/emoji/98.png');
+}
+[data-emoji="🍺"] {
+  background-image: url('img/emoji/98.png');
+}
+[data-emoji="😈"] {
+  background-image: url('img/emoji/98.png');
+}
+[data-emoji="🐱"] {
+  background-image: url('img/emoji/98.png');
+}
+[data-emoji="🐣"] {
+  background-image: url('img/emoji/98.png');
+}
+[data-emoji="️🐳"] {
+  background-image: url('img/emoji/98.png');
+}
+[data-emoji="⛄"] {
+  background-image: url('img/emoji/98.png');
+}
+[data-emoji="🌚"] {
+  background-image: url('img/emoji/198.png');
+}
+[data-emoji="🚀"] {
+  background-image: url('img/emoji/98.png');
+}
+[data-emoji="🏢"] {
+  background-image: url('img/emoji/98.png');
+}
+[data-emoji="💦"] {
+  background-image: url('img/emoji/98.png');
+}
+[data-emoji="🐝"] {
+  background-image: url('img/emoji/98.png');
+}
+[data-emoji="🍌"] {
+  background-image: url('img/emoji/98.png');
+}
+[data-emoji="💸"] {
+  background-image: url('img/emoji/542.png');
+}
+[data-emoji="🍔"] {
+  background-image: url('img/emoji/98.png');
+}
+[data-emoji="🍻"] {
+  background-image: url('img/emoji/279.png');
+}
+[data-emoji="👿"] {
+  background-image: url('img/emoji/98.png');
+}
+[data-emoji="🐶"] {
+  background-image: url('img/emoji/98.png');
+}
+[data-emoji="🎆"] {
+  background-image: url('img/emoji/98.png');
+}
+[data-emoji="🌊"] {
+  background-image: url('img/emoji/98.png');
+}
+[data-emoji="🆒"] {
+  background-image: url('img/emoji/98.png');
+}
+[data-emoji="🌞"] {
+  background-image: url('img/emoji/98.png');
+}
+[data-emoji="💽"] {
+  background-image: url('img/emoji/98.png');
+}
+[data-emoji="🌴"] {
+  background-image: url('img/emoji/209.png');
+}
+[data-emoji="📍"] {
+  background-image: url('img/emoji/98.png');
+}
+[data-emoji="🎅"] {
+  background-image: url('img/emoji/98.png');
+}
+[data-emoji="💎"] {
+  background-image: url('img/emoji/98.png');
+}
+[data-emoji="💔"] {
+  background-image: url('img/emoji/98.png');
+}
+[data-emoji="😭"] {
+  background-image: url('img/emoji/98.png');
+}
+[data-emoji="👕"] {
+  background-image: url('img/emoji/98.png');
+}
+[data-emoji="🐾"] {
+  background-image: url('img/emoji/98.png');
+}
+[data-emoji="💉"] {
+  background-image: url('img/emoji/98.png');
+}
+[data-emoji="💥"] {
+  background-image: url('img/emoji/98.png');
+}
+[data-emoji="🙇"] {
+  background-image: url('img/emoji/98.png');
+}
+[data-emoji="✨"] {
+  background-image: url('img/emoji/98.png');
+}
+[data-emoji="🆗"] {
+  background-image: url('img/emoji/98.png');
+}
+[data-emoji="💪"] {
+  background-image: url('img/emoji/98.png');
+}
+[data-emoji="😄"] {
+  background-image: url('img/emoji/98.png');
+}
+[data-emoji="😆"] {
+  background-image: url('img/emoji/98.png');
+}
+[data-emoji="💯"] {
+  background-image: url('img/emoji/98.png');
+}
+[data-emoji="🙉"] {
+  background-image: url('img/emoji/98.png');
+}
+[data-emoji="😍"] {
+  background-image: url('img/emoji/98.png');
+}
+[data-emoji="😱"] {
+  background-image: url('img/emoji/98.png');
+}
+[data-emoji="☁️"] {
+  background-image: url('img/emoji/98.png');
+}
+[data-emoji="👋"] {
+  background-image: url('img/emoji/98.png');
+}
+[data-emoji="👽"] {
+  background-image: url('img/emoji/98.png');
+}
+[data-emoji="👏"] {
+  background-image: url('img/emoji/437.png');
+}
+[data-emoji="🙅"] {
+  background-image: url('img/emoji/98.png');
+}
+[data-emoji="‼️"] {
+  background-image: url('img/emoji/98.png');
+}
+[data-emoji="🏃"] {
+  background-image: url('img/emoji/98.png');
+}
+[data-emoji="🏇"] {
+  background-image: url('img/emoji/98.png');
+}
+[data-emoji="🌐"] {
+  background-image: url('img/emoji/98.png');
+}
+[data-emoji="🌋"] {
+  background-image: url('img/emoji/98.png');
+}
+[data-emoji="🌎"] {
+  background-image: url('img/emoji/98.png');
+}
+[data-emoji="👴"] {
+  background-image: url('img/emoji/98.png');
+}
+[data-emoji="👎"] {
+  background-image: url('img/emoji/98.png');
+}
+[data-emoji="🌲"] {
+    background-image: url('img/emoji/207.png');    
+}
+[data-emoji="🔦"] {
+    background-image: url('img/emoji/648.png');    
+}
+[data-emoji="🙋"] {
+    background-image: url('img/emoji/772.png');    
+}
+
+[data-emoji="👉"] {
+    background-image: url('img/emoji/431.png');    
+}
+[data-emoji="👈"] {
+    background-image: url('img/emoji/430.png');    
+}
+[data-emoji="👇"] {
+    background-image: url('img/emoji/429.png');    
+}
+[data-emoji="👆"] {
+    background-image: url('img/emoji/428.png');    
+}
+[data-emoji="️️\26A0\0fe0f"] {    /* ⚠ */
+    background-image: url('img/emoji/71.png');    
+}
+[data-emoji="🇺🇸"] {
+        background-image: url('img/emoji/156.png');    
+}
+[data-emoji="🔑"] {
+    background-image: url('img/emoji/627.png');    
+}
+[data-emoji="🔧"] {
+    background-image: url('img/emoji/649.png');    
+}
+[data-emoji="🔨"] {
+    background-image: url('img/emoji/650.png');    
+}
+[data-emoji="🐳"] {
+    background-image: url('img/emoji/411.png');    
+}
+[data-emoji="👸"] {
+    background-image: url('img/emoji/478.png');    
+}
+[data-emoji="📬"] {
+    background-image: url('img/emoji/594.png');    
+}
+[data-emoji="💌"] {
+    background-image: url('img/emoji/498.png');    
+}
+
+

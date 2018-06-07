@@ -2,7 +2,7 @@
 
 #topheader .jumbotron
 {
-	background-image: url('../img/header.gif');
+	background-image: url('../img/beach.gif');
   background-position: center;
   text-align: center;
 	padding: 125px;
@@ -40,7 +40,7 @@
 
 }
 
-#about h3
+#about h3, h2
 {
  	padding: 5px;
 	color: white;
@@ -75,7 +75,7 @@
 	margin-bottom: 0;
 }
 
-#links h3
+#links h3, h2
 {
 	padding: 5px;
 	color: white;
@@ -89,7 +89,7 @@
 
 /* BUTTONS */
 
-#links h3
+#links h3, h2
 {
 	padding: 15px;
 }
@@ -119,6 +119,35 @@
 
 /************/
 
+#curr .jumbotron
+{
+  background-size: cover;
+	background-color: white;
+  text-align: center;
+  width: 100%;
+	padding: 20px;
+	margin-bottom: 0;
+
+}
+
+#curr h3
+{
+	padding: 5px;
+	color: white;
+	font-size: 65px;
+	font-family: 'Courier New', monospace;
+	text-shadow: 4px 4px 3px black;
+}
+
+#curr h2
+{
+	padding: 5px;
+	color: white;
+	font-size: 30px;
+	font-family: 'Courier New', monospace;
+	text-shadow: 2px 2px 3px black;
+}
+
 #prev .jumbotron
 {
   background-size: cover;
@@ -139,9 +168,20 @@
 	text-shadow: 4px 4px 3px black;
 }
 
+#prev h2
+{
+	padding: 5px;
+	color: white;
+	font-size: 30px;
+	font-family: 'Courier New', monospace;
+	text-shadow: 2px 2px 3px black;
+}
 
 #footer
 {
   color: DarkSlateGray;
   font-size: 16px;
 }
+
+.mySlides {display:none}
+.demo {cursor:pointer}
