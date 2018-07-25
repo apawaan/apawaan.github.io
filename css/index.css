@@ -52,7 +52,9 @@
 #about p
 {
 		color: black;
-		font-family: 'Assistant', serif;
+		font-family: 'Courier New', monospace;
+
+		/*font-family: 'Assistant', serif;*/
 		font-size: 25px;
 		font-weight: lighter;
 }
@@ -123,6 +125,7 @@
 {
   background-size: cover;
 	background-color: white;
+	background-image: url('../img/background.gif');
   text-align: center;
   width: 100%;
 	padding: 20px;
@@ -148,10 +151,10 @@
 	text-shadow: 2px 2px 3px black;
 }
 
-#prev .jumbotron
+#prev1 .jumbotron
 {
   background-size: cover;
-	background-color: white;
+	background-color: black;
   text-align: center;
   width: 100%;
 	padding: 20px;
@@ -159,16 +162,64 @@
 
 }
 
-#prev h3
+#prev1 h3
 {
 	padding: 5px;
 	color: white;
 	font-size: 65px;
 	font-family: 'Courier New', monospace;
+	text-shadow: 4px 4px 3px white;
+}
+
+#prev1 h2
+{
+	padding: 5px;
+	color: white;
+	font-size: 40px;
+	font-family: 'Courier New', monospace;
+	text-shadow: 2px 2px 3px white;
+}
+
+#prev1 h5
+{
+	padding: 5px;
+	color: white;
+	font-size: 30px;
+	font-family: 'Courier New', monospace;
+	text-shadow: 2px 2px 3px white;
+}
+
+#prev2 .jumbotron
+{
+  background-size: cover;
+	background-color: white;
+	background-image: url('../img/header.gif');
+  text-align: center;
+  width: 100%;
+	padding: 20px;
+	margin-bottom: 0;
+
+}
+
+#prev2 h3
+{
+	padding: 5px;
+	color: white;
+	font-size: 20px;
+	font-family: 'Courier New', monospace;
 	text-shadow: 4px 4px 3px black;
 }
 
-#prev h2
+#prev2 h2
+{
+	padding: 5px;
+	color: white;
+	font-size: 40px;
+	font-family: 'Courier New', monospace;
+	text-shadow: 2px 2px 3px black;
+}
+
+#prev2 h5
 {
 	padding: 5px;
 	color: white;
@@ -177,11 +228,10 @@
 	text-shadow: 2px 2px 3px black;
 }
 
+#mySlides {display:none;}
+
 #footer
 {
   color: DarkSlateGray;
   font-size: 16px;
 }
-
-.mySlides {display:none}
-.demo {cursor:pointer}
