@@ -3,6 +3,7 @@
 #topheader .jumbotron
 {
 	background-image: url('../img/beach.gif');
+	width: 100%;
   background-position: center;
   text-align: center;
 	padding: 125px;
